@@ -16,11 +16,6 @@
 #include <stdbool.h>
 #include <ctype.h>
 
-// these next two lines should really be:
-//    const int MAX_LIB_SIZE = 100;
-//    const int MAX_LENGTH = 1024;
-// but some (old) compilers seem to have a problem with them,
-// so we will use preprocessor defines
 
 #define MAX_LIB_SIZE 100
 #define MAX_LENGTH 1024
