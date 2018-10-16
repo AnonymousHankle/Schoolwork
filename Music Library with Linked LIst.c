@@ -4,7 +4,7 @@
 // This is a program written to maintain a personal music library, 
 // using a linked list to hold the songs in the library.
 //
-// Author: <Hankle Liu>// Student Number: <Your Student Number Goes Here>
+// Author: <Hankle Liu>
 //
 
 #include <stdio.h>
